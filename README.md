@@ -73,8 +73,8 @@ The data was imported into Power BI and prepared using **Power Query** before an
 
 | File | Description |
 |---|---|
-| `HR(1).pbix` | Power BI report containing the dashboard and data model |
-| `Attendance-Sheet-2022-2023(1).xlsx` | Excel attendance dataset |
+| `HR.pbix` | Power BI report containing the dashboard and data model |
+| `Attendance-Sheet-2022-2023.xlsx` | Excel attendance dataset |
 | `screenshots/` | Dashboard preview images |
 
 ## 🚀 How to Use
